@@ -1,0 +1,11 @@
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\bin\Debug\netcoreapp2.0\Solucion_TP7.deps.json
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\bin\Debug\netcoreapp2.0\Solucion_TP7.runtimeconfig.json
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\bin\Debug\netcoreapp2.0\Solucion_TP7.runtimeconfig.dev.json
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\bin\Debug\netcoreapp2.0\Solucion_TP7.dll
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\bin\Debug\netcoreapp2.0\Solucion_TP7.pdb
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\obj\Debug\netcoreapp2.0\Solucion_TP7.csprojResolveAssemblyReference.cache
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\obj\Debug\netcoreapp2.0\Solucion_TP7.csproj.CoreCompileInputs.cache
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\obj\Debug\netcoreapp2.0\Solucion_TP7.AssemblyInfoInputs.cache
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\obj\Debug\netcoreapp2.0\Solucion_TP7.AssemblyInfo.cs
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\obj\Debug\netcoreapp2.0\Solucion_TP7.dll
+C:\Users\Angel\MasterFolder\FACET\taller1\tp-nro7-AngelV1107\Solucion_TP7\obj\Debug\netcoreapp2.0\Solucion_TP7.pdb
